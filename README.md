@@ -1,4 +1,4 @@
 #public readme file
 
 
-//adding a message to the file
+//deleting and altering a message to the file
